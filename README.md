@@ -4,7 +4,7 @@
 
 This is an API with data on all participants of IIIT-L Equinox's FOSS Weekend (that's you!) with 2 endpoints currently, one which returns data on all the participants and another which returns data on the participant with the requested roll number. All data is in JSON format. 2 endpoints sounds too little? Don't worry, you can add more (look at the Issues tab 👀)
 
-Tackling issue #1 is MANDATORY for all participants. Don't miss it!
+Tackling [issue #1](https://github.com/iiitl/Participants-API/issues/1) is MANDATORY for all participants. Don't miss it!
 
 ## Local Setup
 
